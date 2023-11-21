@@ -414,7 +414,7 @@
 		<!--/ End Why choose -->
 		
 		<!-- Start Call to action -->
-		<section style="background-color: #1bf6f3;" class="call-action overlay" data-stellar-background-ratio="0.5">
+		<section  class="call-action overlay" data-stellar-background-ratio="0.5">
 			<div  class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
