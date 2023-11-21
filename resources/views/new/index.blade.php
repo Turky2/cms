@@ -414,8 +414,8 @@
 		<!--/ End Why choose -->
 		
 		<!-- Start Call to action -->
-		<section class="call-action overlay" data-stellar-background-ratio="0.5">
-			<div class="container">
+		<section  class="call-action overlay" data-stellar-background-ratio="0.5">
+			<div  class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
 						<div class="content">
@@ -525,7 +525,7 @@
 		
 		
 		<!-- Footer Area -->
-		<footer id="footer" class="footer ">
+		<footer style="background-color: #1bf6f3;" id="footer" class="footer ">
 			<!-- Footer Top -->
 			<div class="footer-top">
 				<div class="container">
@@ -550,7 +550,7 @@
 			</div>
 			<!--/ End Footer Top -->
 			<!-- Copyright -->
-			<div class="copyright">
+			<div style="background-color: #18DDDA;" class="copyright">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-12">
