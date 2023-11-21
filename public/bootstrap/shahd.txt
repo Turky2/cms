@@ -1,0 +1,8 @@
+    <link rel="stylesheet" href="vendor/owl.carousel2/assets/owl.carousel.min.css">
+
+      <script src="vendor/bootstrap-select/js/bootstrap-select.min.js"></script>
+
+
+setTimeout(function() {
+    $('#successMessage').fadeOut('fast');
+}, 3000);
