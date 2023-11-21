@@ -244,7 +244,7 @@
 		<!--/ End Feautes -->
 		
 		<!-- Start Fun-facts -->
-		<div   id="fun-facts" class="fun-facts section overlay">
+		<div   id="fun-facts" class="fun-facts section">
 			<div  class="container">
 				<div  class="row">
 					<div class="col-lg-3 col-md-6 col-12">
@@ -295,7 +295,7 @@
 			</div>
 		</div>
 		<!--/ End Fun-facts -->
-		
+		>
 		<!-- Start Why choose -->
 		<section class="my-5 Feautes section">
 			<div class="container">
@@ -414,7 +414,7 @@
 		<!--/ End Why choose -->
 		
 		<!-- Start Call to action -->
-		<section class="call-action overlay" data-stellar-background-ratio="0.5">
+		<section class="call-action" data-stellar-background-ratio="0.5">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
@@ -493,7 +493,7 @@
 					@for ($i = '1'; $i <= '6'; $i++)
 					<div class="col-md-6 col-12 mt-4 pt-2">
                         <div  class="d-flex">
-                            <svg  xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle fea icon-ex-md text-primary me-2 mt-1"><circle  cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+                            <svg  xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:#128c7e" class="feather feather-help-circle fea icon-ex-md  me-2 mt-1"><circle  cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
                             <div style="margin-top: 8%" class="flex-1">
                                 <h5 style="font-size: 22pt;margin-left:17%" class="mt-0">كيف استخدام  الموقع لتجارتى ؟</h5>
                                 <p style="font-size: 14pt;margin-top:2%;margin-left:5%;  text-align: right;" class="answer text-muted mb-0">حيث تمكنك  من متابعة مخزونك ومبيعاتك وتكاليفك وجميع عمليات البيع في الفروع والمتجر الإلكتروني من خلال تقارير المخزون والمبيعات المحدثة تلقائيًا والمصنفة حسب المدة الزمنية والفروع بالإضافة إلى تقارير الإقرار الضريبي.</p>
@@ -525,46 +525,8 @@
 		
 		
 		
-		<!-- Footer Area -->
-		<footer id="footer" class="footer ">
-			<!-- Footer Top -->
-			<div class="footer-top">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-3 col-md-6 col-12">
-							<div class="single-footer">
-								<h2>برنامج المهام  السحابى المحاسبى</h2>
-								<!-- Social -->
-								<ul class="social">
-									<li><a href="#"><i class="icofont-facebook"></i></a></li>
-									<li><a href="#"><i class="icofont-google-plus"></i></a></li>
-									<li><a href="#"><i class="icofont-twitter"></i></a></li>
-									<li><a href="#"><i class="icofont-vimeo"></i></a></li>
-									<li><a href="#"><i class="icofont-pinterest"></i></a></li>
-								</ul>
-								<!-- End Social -->
-							</div>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-			<!--/ End Footer Top -->
-			<!-- Copyright -->
-			<div class="copyright">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-12 col-md-12 col-12">
-							<div class="copyright-content">
-								<p>© Copyright 2018  |  All Rights Reserved by <a href="https://mhamcloud.sa/" target="_blank">mhamcloud</a> </p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--/ End Copyright -->
-		</footer>
-		<!--/ End Footer Area -->
+@include('new.footer')
+
 		
 		<!-- jquery Min JS -->
         <script src="{{asset('new/js/jquery.min.js')}}"></script>
