@@ -18,7 +18,7 @@
                         <div class="col-lg-9 col-md-9 ">
                             <!-- Main Menu -->
                             <div class="main-menu">
-                                <nav style="margin-right: 5%;" class="navigation">
+                                <nav style="margin-right: 15%;" class="navigation">
                                     <ul class="nav menu">
                                     <li class="active"><a style="font-weight:bold"  href="/">الصفحة الرئيسية</a></li>
                                     <li><a style="font-weight:bold" href="{{ route('cms.package') }}">التسعير</a></li>

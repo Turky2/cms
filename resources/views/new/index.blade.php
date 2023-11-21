@@ -493,8 +493,8 @@
 					@for ($i = '1'; $i <= '6'; $i++)
 					<div class="col-md-6 col-12 mt-4 pt-2">
                         <div  class="d-flex">
-                            <svg  xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle fea icon-ex-md text-primary me-2 mt-1"><circle  cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
-                            <div style="margin-top: 5.5%" class="flex-1">
+                            <svg  xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-help-circle fea icon-ex-md text-primary me-2 mt-1"><circle  cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+                            <div style="margin-top: 8%" class="flex-1">
                                 <h5 style="font-size: 22pt;margin-left:17%" class="mt-0">كيف استخدام  الموقع لتجارتى ؟</h5>
                                 <p style="font-size: 14pt;margin-top:2%;margin-left:5%;  text-align: right;" class="answer text-muted mb-0">حيث تمكنك  من متابعة مخزونك ومبيعاتك وتكاليفك وجميع عمليات البيع في الفروع والمتجر الإلكتروني من خلال تقارير المخزون والمبيعات المحدثة تلقائيًا والمصنفة حسب المدة الزمنية والفروع بالإضافة إلى تقارير الإقرار الضريبي.</p>
                             </div>
@@ -520,7 +520,7 @@
 	
 		
 		<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-94660395-2300-455d-b082-80b861feee94" data-elfsight-app-lazy></div>
+<div  class="elfsight-app-94660395-2300-455d-b082-80b861feee94" data-elfsight-app-lazy></div>
 		
 		
 		
@@ -556,7 +556,7 @@
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-12">
 							<div class="copyright-content">
-								<p>© Copyright 2018  |  All Rights Reserved by <a href="https://www.wpthemesgrid.com" target="_blank">wpthemesgrid.com</a> </p>
+								<p>© Copyright 2018  |  All Rights Reserved by <a href="https://mhamcloud.sa/" target="_blank">mhamcloud</a> </p>
 							</div>
 						</div>
 					</div>
