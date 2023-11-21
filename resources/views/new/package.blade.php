@@ -132,7 +132,9 @@
 		
 		
 	
-		
+		<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-94660395-2300-455d-b082-80b861feee94" data-elfsight-app-lazy></div>
+
 		
 		
 		
