@@ -1,4 +1,4 @@
-<header dir='rtl' style="margin-right: 25%;" class="header" >
+<header dir="rtl"  style="margin-left: 35%;" class="header" >
 		
         <!-- Header Inner -->
         <div class="header-inner">
@@ -7,7 +7,7 @@
                     <div  class="row">
                         <div   class="col-lg-3 col-md-3 ">
                             <!-- Start Logo -->
-                            <div  class="logo">
+                            <div   class="logo">
                                 <a href="/"><img style="width: 150px;height:50px" src="{{ asset('new/logo.jpg') }}" alt="#"></a>
                             </div>
                             <!-- End Logo -->
@@ -18,7 +18,7 @@
                         <div class="col-lg-9 col-md-9 ">
                             <!-- Main Menu -->
                             <div class="main-menu">
-                                <nav style="margin-right: 6%;" class="navigation">
+                                <nav style="margin-right: 5%;" class="navigation">
                                     <ul class="nav menu">
                                     <li class="active"><a style="font-weight:bold"  href="/">الصفحة الرئيسية</a></li>
                                     <li><a style="font-weight:bold" href="{{ route('cms.package') }}">التسعير</a></li>
