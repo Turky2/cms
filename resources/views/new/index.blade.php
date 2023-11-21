@@ -244,7 +244,7 @@
 		<!--/ End Feautes -->
 		
 		<!-- Start Fun-facts -->
-		<div  id="fun-facts" class="fun-facts section overlay">
+		<div style="background: url('{{asset('new/00.jpg')}}');"  id="fun-facts" class="fun-facts section overlay">
 			<div  class="container">
 				<div  class="row">
 					<div class="col-lg-3 col-md-6 col-12">
