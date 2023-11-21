@@ -1088,12 +1088,7 @@ body{
 /*===============================
 	Start Call to action CSS
 =================================*/
-.call-action{
-	background-size:cover;
-	background-position:center;
-	position:relative;
-	background-repeat:no-repeat;
-}
+
 .call-action .content{
 	text-align:center;
 	padding:100px 265px;
